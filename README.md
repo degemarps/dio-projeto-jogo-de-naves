@@ -1,4 +1,4 @@
-### Projeto Jogo de Naves
+## Projeto Jogo de Naves
 
 #### Neste repositório será armazenado um projeto desenvolvido no bootcamp da Digital Innovation One em parceria com a MRV, que consiste em criar um jogo de naves.
 
